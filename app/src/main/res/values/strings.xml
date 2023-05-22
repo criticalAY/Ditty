@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ditty</string>
+    <string name="title_for_video">Title for video</string>
+    <string name="description_for_video">Description for video</string>
+    <string name="shorts_assignment">Shorts Assignment</string>
+    <string name="dummy_navigation_icons">These are dummy navigation icons</string>
+</resources>
